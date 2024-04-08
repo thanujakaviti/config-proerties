@@ -1,0 +1,5 @@
+msg=Hi, hellow how r u...!!!
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@localhost:1521:xe
+username=system
+password=sai
